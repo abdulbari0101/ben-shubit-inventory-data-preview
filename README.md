@@ -1,4 +1,6 @@
-# ben-shubit-inventory-data-preview# 📦 Inventory Management System
+# ben-shubit-inventory-data-preview
+
+# 📦 Inventory Management System
 
 <div align="center">
 
